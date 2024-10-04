@@ -1,0 +1,34 @@
+{
+  "MEO": {
+    "replace": "meo",
+    "category": "Telecommunications"
+  },
+  "AGERE": {
+    "replace": "Agere",
+    "category": "Water"
+  },
+  "WOO": {
+    "replace": "Woo",
+    "category": "Telecommunications"
+  },
+  "VODAFONE": {
+    "replace": "Vodafone",
+    "category": "Telecommunications"
+  },
+  "LEROY MERLIN": {
+    "replace": "Leroy Merlin",
+    "category": "Home DIY"
+  },
+  "MERCADONA": {
+    "replace": "Mercadona",
+    "category": "Groceries"
+  },
+  "ACCENTURE": {
+    "replace": "Andreia Salary",
+    "category": "Income"
+  },
+  "VENCIMENTO": {
+    "replace": "Tiago Salary",
+    "category": "Income"
+  }
+}
